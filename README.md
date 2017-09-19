@@ -28,7 +28,7 @@ In the near future, the jailbreak will support the following devices:
 
 | Device | Version |
 |---------|----------|
-| iPhone 7  | iOS 10.0.0 -> iOS 10.1.1 |
+| all iOS  | iOS 10.0.0 -> iOS 10.2.1 |
 
 **Note, the iPhone 7 is only supported till iOS 10.1.1**
 If you are already on iOS 10.2 with an iPhone 7, **stay there**. The actual exploit behind this still works, but the KPP bypass does not.
@@ -73,4 +73,7 @@ Do not install things that are untested.
 
 Create a fork of the repository, make your changes and then create a pull request.
 Please be sure to check if the pull request has been made before, before creating a new one. Note, any pull requests adding IOKit headers will be closed. Please respect copyright laws, and do not distribute / download IOKit headers from unofficial sources: they are bundled legally with macOS SDK
+
+
+Some Code HERE AMAZING Work by Luca Tedesco, Adam Donenfeld, Mila432, SRY COFFEEPOCKET RUSSIAN I FORGOT YOUR NAME I EDIT IT SOON and little rewriten by me just a little bit.
 
